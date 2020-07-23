@@ -1,5 +1,0 @@
-sceneSetups:
-- path: F:/study materials/MSCS/SP19 DIARIES/Penguins/Assets/Scenes/SampleScene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
